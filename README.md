@@ -14,4 +14,4 @@
 4) Instalar Shell en servidor de AWS
 5) Pruebas (docker –versión y Docker-compose --version)
 
-# Ver rama admin
+# Ver rama admin como soporte de desarrollo de los talleres.
