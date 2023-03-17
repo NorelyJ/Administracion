@@ -14,7 +14,7 @@
 
 #Taller 2 Objetivo: Automatizar instalación de docker y Docker-compose
 
-1) Agregar modulo de instalación de Docker en menú de administración para instalación y pruebas unitarias: se agrega el modulo de docker a la shell del taller 2 de sistemas operativos como se puede ver en la siguiente imagen.
+1) Agregar modulo de instalación de Docker en menú de administración para instalación y pruebas unitarias: se agrega el modulo de docker a la shell del taller 2 de sistemas operativos como se puede ver en la siguiente imagen y se encuentra el archivo como Taller2_docker.sh en la rama admin.
 <p align="center">
 <img src="https://github.com/NorelyJ/Administracion/blob/4b087b96c4fda1c05d7f4599e35e6803c45ec7a3/Docker_images/Instal_docker.PNG">
 </p>
