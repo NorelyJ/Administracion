@@ -23,7 +23,6 @@
 <p align="center">
 <img src="https://github.com/NorelyJ/Administracion/blob/4b087b96c4fda1c05d7f4599e35e6803c45ec7a3/Docker_images/github.PNG">
 </p>
-4) Instalar Shell en servidor de AWS.
 5) Pruebas (docker –versión y Docker-compose --version): como se evidencia en la siguiente imagen se realizo la prueba del docker-compose en linux mediante el el archivo docker.compose.yml ya que se encuentra las images redis y app-py-web 
 <p align="center">
 <img src="https://github.com/NorelyJ/Administracion/blob/4b087b96c4fda1c05d7f4599e35e6803c45ec7a3/Docker_images/docker_install.PNG">
