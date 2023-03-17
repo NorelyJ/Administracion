@@ -2,7 +2,7 @@
 
 1) Configuración de herramienta de desarrollo
 2) Crear cuenta en Github: se crea la cuenta en github https://github.com/
-3) Crear cuenta en Dockerhub: se crea la cuenta en dockerhub en https://hub.docker.com/ 
+3) Crear cuenta en Dockerhub: se crea la cuenta en dockerhub en https://hub.docker.com/ como se evidencia en la siguiente imagen se encuentra el ambiente de dockerhub con dos repositorios.
 <p align="center">
 <img src="https://github.com/NorelyJ/Administracion/blob/4b087b96c4fda1c05d7f4599e35e6803c45ec7a3/Docker_images/dockerhub.PNG">
 </p>
