@@ -13,3 +13,5 @@
 3) Clonar repositorio
 4) Instalar Shell en servidor de AWS
 5) Pruebas (docker –versión y Docker-compose --version)
+
+# Ver rama admin
