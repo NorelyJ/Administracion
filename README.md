@@ -19,7 +19,6 @@
 <img src="https://github.com/NorelyJ/Administracion/blob/4b087b96c4fda1c05d7f4599e35e6803c45ec7a3/Docker_images/Instal_docker.PNG">
 </p>
 2) Subir cambios a repositorio:Para subir cambios al repositorio se utiliza el comando git pull directamente en la consola de linux.
-
 3) Clonar repositorio: se usa el link del repositorio a clonar del https que se encuentra en Code en github, como se puede ver en la siguiente figura en la parte derecha se encuentra de color verde con el comando git clone https://github.com/NorelyJ/proyectoFinal_IAC.git en la consola de linux.  
 <p align="center">
 <img src="https://github.com/NorelyJ/Administracion/blob/4b087b96c4fda1c05d7f4599e35e6803c45ec7a3/Docker_images/github.PNG">
